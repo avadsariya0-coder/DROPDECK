@@ -1,0 +1,12 @@
+Component,quantity required,Price in inr,Price in USD,Total price,web link
+MX cherryswitch,5,37.32,$0.39,$3.72,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/
+Xiao RP2040,1,373.18,$3.9,$3.9,http://seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
+DSA keycaps,5,37.32,$0.21,$1.05,https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/?srsltid=AfmBOor3KvafPSsj5Srdeqj5sR2wVjxOwla9YyFc_5wRytB5Epxs6Di4-uw
+Potentiometer,1,281.37,$2.95,$2.95,https://www.mouser.com/ProductDetail/Bourns/PTL30-15R1-104B2?qs=b8viKDOLiXZRUw8o0OtIKw%3D%3D&srsltid=AfmBOooKescgcyA4ru3zhvuISdMjHW6lniR_8xPHK77RoO-g4JlJ_elh
+Display,1,263,$2.76,$2.76,https://www.amazon.in/Electrobot-SSD1306-Display-Module-Screen/dp/B099X21CM5
+Rotary encoder,1,179.77,$1.88,$1.88,https://www.arrow.com/en/products/pec11r-4215k-s0024/bourns.html?utm_source=google&utm_medium=cpc&utm_campaign=brand_g-ppc-arrow-apac-sku-english-in-usd-electromechanical_encoders-all_brands-v1_q1_2025&utm_content=apac_en&gclsrc=aw.ds&gad_source=1&gad_campaignid=22242782353&gbraid=0AAAAADFaomNEVt1WTY1YFQv-BiT51T6YY&gclid=CjwKCAjw857RBhAgEiwAI-1yKE2pu1f8O_pYMQdJYuYTWz6FvmzGEDgMvoDo1Mq-JFNrL9kPFc5IORoC--YQAvD_BwE
+PCB,1,707.48,$7.5,$7.5,https://cart.jlcpcb.com/quote?rand=0.8516392589623124
+enclosure,1,326.22,$3.42,$3.42,https://jlc3dp.com/3d-printing-quote
+M2.5 screws,6,4,$0.042,$0.252,https://in.misumi-ec.com/vona2/detail/221000547337/?HissuCode=CSPTRT-SUS-M2.5-5&aid=plid_04012024_01&utm_source=google&utm_medium=ads&utm_campaign=Economy_Series_Website_Traffic_Maximize_Clicks_Shopping_Ads&utm_id=21387632818&gad_source=1&gad_campaignid=21387632818&gbraid=0AAAAAC-g747KIcOjfjs429cZrN15fMl6M&gclid=CjwKCAjw857RBhAgEiwAI-1yKAaj3SAZN0iDxUpzQ5E7dHubukWdUJO-h2hNtCm-UZNvYr9DNPx5ERoCotwQAvD_BwE
+M2.2 screws,4,5,$0.053,$0.212,https://www.indiamart.com/proddetail/torx-screw-m2-2-x-5-2850107426012.html?srsltid=AfmBOopIv97kXRwNq2ZI1Uv8VQ6X105pY2l0DD_n2JkfMTV0N--1eqWL
+,,,Grand Total,$27.644,
