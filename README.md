@@ -31,7 +31,8 @@ ________________________________________________________________________________
 <img width="1920" height="752" alt="DROPDECK" src="https://github.com/user-attachments/assets/cb4fad4f-9a39-4fe6-b8e7-a36d18bcf610" />
 
 
-<img width="1920" height="752" alt="RIGHT RENDER" src="https://github.com/user-attachments/assets/0037469d-c646-4067-96f5-a962137a4064" />
+<img width="1920" height="752" alt="right render" src="https://github.com/user-attachments/assets/af5d4996-9856-4201-84c8-cff06de402fd" />
+
 
 <img width="1920" height="752" alt="BACK RENDER" src="https://github.com/user-attachments/assets/ac932702-369d-4c74-92d3-e04f857d31c0" />
 _________________________________________________________________________________________________________________________________________________________________________
