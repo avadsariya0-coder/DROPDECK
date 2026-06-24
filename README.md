@@ -59,7 +59,8 @@ ________________________________________________________________________________
 
 ## Zine 
 
-<img width="1410" height="2000" alt="ZINE PNG" src="https://github.com/user-attachments/assets/6f4aaad2-594f-4e52-8533-8e977d71e66c" />
+<img width="1410" height="2000" alt="DROPDECK" src="https://github.com/user-attachments/assets/d09e7d9f-70e9-4771-bbf8-47ef6756dbce" />
+
 _________________________________________________________________________________________________________________________________________________________________________
 
 ## PCB Design
